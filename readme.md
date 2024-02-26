@@ -1,7 +1,8 @@
 ## Getting Started
 Recomended Projects by XILINX to get started on Z2
 
-- [xup_fpga_vivado_flow](https://github.com/Xilinx/xup_fpga_vivado_flow)
+- [xup_fpga_vivado_flow](https://github.com/Xilinx/xup_fpga_vivado_flow) Missing files
+- [FPGA-Design-Flow-using-Vivado](https://github.com/louisliuwei/FPGA-Design-Flow-using-Vivado)
 - [xup_digital_design_tutorial](https://github.com/Xilinx/xup_digital_design_tutorial)
 - [xup_embedded_system_design_flow](https://github.com/Xilinx/xup_embedded_system_design_flow)
 - [xup_high_level_synthesis_design_flow](https://github.com/Xilinx/xup_high_level_synthesis_design_flow)
